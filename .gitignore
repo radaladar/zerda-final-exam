@@ -1,4 +1,4 @@
 # IntelliJ Files
-/exam4-final-anagramchecker/.idea/
-/exam4-final-anagramchecker/out/
-/exam4-final-anagramchecker*.iml
+/.idea/
+/out/
+*.iml
